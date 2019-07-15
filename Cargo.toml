@@ -1,0 +1,8 @@
+[package]
+name = "yee-bot.rs"
+version = "0.1.0"
+authors = ["Nicholas Ng <nickng@nickng.io>"]
+edition = "2018"
+
+[dependencies]
+slack = "0.22.0"
